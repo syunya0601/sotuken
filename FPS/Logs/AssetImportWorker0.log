@@ -74,3 +74,4 @@ Received Import Request.
   path: Assets/Standard Assets
   artifactKey: Guid(c6195a43a0187a34e9c6be23520d3766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Standard Assets using Guid(c6195a43a0187a34e9c6be23520d3766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dde5de66680e5b3784f3a17ea7ab6c4') in 0.014824 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
