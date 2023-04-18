@@ -254,7 +254,7 @@ MonoBehaviour:
   PrefabEnemy: {fileID: 132346686980878952, guid: 4b504f7ef755b814da9f5974c1caa1a6, type: 3}
   text: {fileID: 1421098213}
   shoot: {fileID: 463139428}
-  GameTime: 5
+  GameTime: 60
   gametime: {fileID: 534268891}
   CoutText: {fileID: 115105474}
   deleateText: {fileID: 2042553511}
